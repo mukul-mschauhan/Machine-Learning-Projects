@@ -1,2 +1,3 @@
-# Data-Science-Projects
-Compilation of Projects on Data Science 
+# Machine Learning Repository
+Machine Learning Case Studies
+
