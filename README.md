@@ -17,3 +17,6 @@
 8. Regularization Models (Ridge, Lasso & Elastic Net) [Click Here](https://github.com/mukul-mschauhan/Data-Science-Projects/blob/master/Lasso%20and%20Ridge%20Regression%20-%20Big%20Sales%20Mart%20Competition%20.ipynb)
 
 9. Healthcare Analytics - EDA, Feature Engineering & Machine Learning Model [Click Here](https://github.com/mukul-mschauhan/Data-Science-Projects/blob/master/Healthcare%20Analytics.ipynb)
+
+
+## Front End Projects
