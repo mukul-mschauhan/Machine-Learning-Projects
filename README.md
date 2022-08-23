@@ -20,3 +20,6 @@
 
 
 ## Front End Projects
+
+1. Understanding Data Science Using IPL Dataset [Click Here](https://mukul-mschauhan-analysis-ipl-st-d3zblg.streamlitapp.com/)
+2. Exploratory Data Analysis on Netflix [Click Here](https://mukul-mschauhan-netflix-de-netflix-bcwq7q.streamlitapp.com/) 
