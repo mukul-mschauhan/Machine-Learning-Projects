@@ -10,7 +10,7 @@
 
 5. Understanding Anova & Chi Square Test [Click Here](https://github.com/mukul-mschauhan/Data-Science-Projects/blob/master/Understanding%20Anova%20%26%20Chi%20Square%20Test%20in%20Titanic.ipynb)
 
-6. One Way & Two Way Anova Examples [Click Here) (https://github.com/mukul-mschauhan/Data-Science-Projects/blob/master/Anova%20with%20Calculations%20and%20Dataset.ipynb)
+6. One Way & Two Way Anova Examples [Click Here](https://github.com/mukul-mschauhan/Data-Science-Projects/blob/master/Anova%20with%20Calculations%20and%20Dataset.ipynb)
 
 7. Black Friday Purchase Price Prediction - ML Models [Click Here](https://github.com/mukul-mschauhan/Data-Science-Projects/blob/master/Black%20Friday%20Sales%20Problem.ipynb)
 
