@@ -1,4 +1,4 @@
-# EDA, Statistics Projects & Machine Learning Projects
+# EDA, Statistics & Machine Learning Projects
 
 1. Linear Regression Model & Assumptions [Click Here](https://github.com/mukul-mschauhan/Data-Science-Projects/blob/master/Linear%20Regression%20-%20TTest%20FTest%20%26%20Assumptions.ipynb)
 
