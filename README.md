@@ -1,5 +1,9 @@
 # EDA, Statistics & Machine Learning Projects
 
+## Welcome to the Repository!
+
+This is the Repository for understanding the work on Exploratory Data Analysis, Statistics & Machine Learning Models. In this repo you will find all the accompanying Jupyter (a.k.a. iPython) Notebooks.
+
 1. Linear Regression Model & Assumptions [Click Here](https://github.com/mukul-mschauhan/Data-Science-Projects/blob/master/Linear%20Regression%20-%20TTest%20FTest%20%26%20Assumptions.ipynb)
 
 2. Big Mart Sales Project - EDA & Outlier Treatment [Click Here](https://github.com/mukul-mschauhan/Data-Science-Projects/blob/master/Big%20Sales%20Mart%20-%20EDA%20%26%20Outlier%20Removal%20-%20GBM%20RMSE%201105.ipynb)
