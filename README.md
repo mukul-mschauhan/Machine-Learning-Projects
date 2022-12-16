@@ -22,6 +22,8 @@ This is the Repository for understanding the work on Exploratory Data Analysis, 
 
 9. Healthcare Analytics - EDA, Feature Engineering & Machine Learning Model [Click Here](https://github.com/mukul-mschauhan/Data-Science-Projects/blob/master/Healthcare%20Analytics.ipynb)
 
+10. Insurance Claim Prediction Problem - EDA, Feature Engineering & Machine Learning Model [Click Here]()
+
 
 ## Front End Projects
 
