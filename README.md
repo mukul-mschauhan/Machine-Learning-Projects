@@ -24,6 +24,12 @@ This is the Repository for understanding the work on Exploratory Data Analysis, 
 
 10. Insurance Claim Prediction Problem - EDA, Feature Engineering & Machine Learning Model [Click Here](https://github.com/mukul-mschauhan/Data-Science-Projects/blob/master/Insurance%20Claim%20Prediction%20(1).ipynb)
 
+11. Taxi Fare Prediction - EDA, Feature Engineering, Supervised & Unsupervised Machine Learning [Click Here](https://github.com/mukul-mschauhan/Machine-Learning-Projects/blob/master/Taxi%20Fare%20Prediction.ipynb)
+
+12. Car Insurance Claim Prediction - EDA, Feature Engineering & Machine Learning [Click Here](https://github.com/mukul-mschauhan/Machine-Learning-Projects/blob/master/Insurance%20Claim%20Prediction%20(1).ipynb)
+
+13. Principal Component Analysis on Wine Dataset - Understanding Clustering & PCA [Click Here](https://github.com/mukul-mschauhan/Machine-Learning-Projects/blob/master/Mukul_Chauhan_PGID_12220001%20PCA%20(1).ipynb)
+
 
 ## Front End Projects
 
