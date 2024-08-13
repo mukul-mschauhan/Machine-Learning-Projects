@@ -46,6 +46,9 @@ This is the Repository for understanding the work on Exploratory Data Analysis, 
 
 ![EDA](https://github.com/user-attachments/assets/1169251a-ef1d-4e87-b263-2ad73d9b3e2c)
 
+
+![Data Engineer](https://github.com/user-attachments/assets/e02f1cbc-b078-460b-b8e5-3a26c7f53439)
+
  
 
 
