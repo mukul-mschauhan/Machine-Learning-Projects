@@ -1,3 +1,8 @@
+
+
+![JECRC](https://github.com/user-attachments/assets/3eb0f10a-31cb-4ccd-a947-c64cf9704d02)
+
+
 # EDA, Statistics & Machine Learning Projects
 
 ## Welcome to the Repository!
