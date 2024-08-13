@@ -1,6 +1,6 @@
 
+![Applications of Gen AI](https://github.com/user-attachments/assets/fa5b2440-c5d8-4805-8d34-7fc0c34464f1)
 
-![JECRC](https://github.com/user-attachments/assets/3eb0f10a-31cb-4ccd-a947-c64cf9704d02)
 
 
 # EDA, Statistics & Machine Learning Projects
