@@ -1,8 +1,3 @@
-
-![Applications of Gen AI](https://github.com/user-attachments/assets/fa5b2440-c5d8-4805-8d34-7fc0c34464f1)
-
-
-
 # EDA, Statistics & Machine Learning Projects
 
 ## Welcome to the Repository!
