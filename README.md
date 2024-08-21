@@ -43,6 +43,9 @@ This is the Repository for understanding the work on Exploratory Data Analysis, 
 1. Understanding Data Science Using IPL Dataset [Click Here](https://mukul-mschauhan-analysis-ipl-st-d3zblg.streamlitapp.com/)
 2. Exploratory Data Analysis on Netflix [Click Here](https://mukul-mschauhan-netflix-de-netflix-bcwq7q.streamlitapp.com/)
 
+![Model_pipeline](https://github.com/user-attachments/assets/acecb21a-7bcf-4168-8e69-4d85536112fa)
+
+
 
 ![EDA](https://github.com/user-attachments/assets/1169251a-ef1d-4e87-b263-2ad73d9b3e2c)
 
