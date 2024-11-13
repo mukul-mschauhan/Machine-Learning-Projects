@@ -31,6 +31,7 @@ This is the Repository for understanding the work on Exploratory Data Analysis, 
 13. Principal Component Analysis on Wine Dataset - Understanding Clustering & PCA [Click Here](https://github.com/mukul-mschauhan/Machine-Learning-Projects/blob/master/Mukul_Chauhan_PGID_12220001%20PCA%20(1).ipynb)
 
 14. Workathon Price Prediction Challenge - Text Cleaning & Feature Engineering [Click Here](https://github.com/mukul-mschauhan/Machine-Learning-Projects/blob/master/Workathon.ipynb)
+15. Food Demand Forecasting[Click Here](https://github.com/mukul-mschauhan/Machine-Learning-Projects/blob/master/Food%20Demand%20Forecasting.ipynb)
 
 
 ## Front End Projects
